@@ -3,7 +3,9 @@
 
 Features for this version :  
 This project allows you to collect EEG data from a **Muse 2** device, process it to remove unnecessary columns, and save the modified data into a CSV file.  
-The project is not yet complete and is still under development. New features will be added shortly.
+The project is not yet complete and is still under development. New features will be added shortly.  
+
+![Program image](res/project.png)
 
 ---
 
